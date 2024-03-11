@@ -1,0 +1,2 @@
+remote_dir_path='/Users/chad/test_project/test'
+local_dir_path='/Users/chad/test_project/test'
